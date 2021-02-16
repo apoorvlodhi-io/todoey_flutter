@@ -1,4 +1,4 @@
-# todoey-flutter
+# Todoey-flutter
 
 A //TODO application built using FLUTTER
 
